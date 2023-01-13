@@ -25,8 +25,8 @@ y1=newname.replace(" ","")
 print(y1)
 
 #Ans 2
-name = "Pari mehta"
-sid = "22104030"
+name = "Puranjay"
+sid = "22104045"
 department = "Electrical Engineering"
 cgpa = 9.9
 
